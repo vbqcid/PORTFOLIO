@@ -1,5 +1,7 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
+![alt text](./assets/image.png)
+
 ## Herramientas utilizadas:
 
 * HTML
